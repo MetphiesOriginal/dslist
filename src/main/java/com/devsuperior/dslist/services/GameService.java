@@ -12,6 +12,7 @@ import com.devsuperior.dslist.entities.Game;
 import com.devsuperior.dslist.repositories.GameRepository;
 
 @Service
+
 public class GameService {
 	
 	@Autowired
