@@ -22,7 +22,11 @@ public class WebConfig {
 		};
 	}
 	
+<<<<<<< HEAD
 }*/ 
 
 
 //CORS_ORIGINS pin - https://devsuperior.com.br  (ADD railway para vinculo de dominio)
+=======
+}*/
+>>>>>>> 48b4ab497d64e293d6924af628feee73950e5ffa
