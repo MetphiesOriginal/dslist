@@ -20,6 +20,9 @@ public class WebConfig {
 				registry.addMapping("/**").allowedMethods("*").allowedOrigins(corsOrigins);
 			}
 		};
-	}*/
+	}
 	
-}
+}*/ 
+
+
+//CORS_ORIGINS pin - https://devsuperior.com.br  (ADD railway para vinculo de dominio)
